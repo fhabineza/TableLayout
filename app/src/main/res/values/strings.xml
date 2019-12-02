@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+    <string name="str_version">Enter android version</string>
+    <string name="str_code">Enter android code name</string>
+    <string name="btn_add">Add</string>
+    <string name="str_version_name">Version</string>
+    <string name="str_code_name">Code Name</string>
+</resources>
